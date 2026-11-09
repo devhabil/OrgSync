@@ -1,4 +1,5 @@
 OrgSync
+
 OrgSync adalah proyek pengembangan sistem backend untuk mendukung pengelolaan informasi dan proses operasional organisasi, dengan konteks penggunaan pada layanan sumber daya manusia (HR) dan outsourcing.
 Catatan portofolio: Repository ini merupakan versi yang telah disesuaikan untuk keperluan pembelajaran, dokumentasi teknis, dan portofolio. Deskripsi yang dipublikasikan bersifat umum dan tidak dimaksudkan untuk mengungkap data, identitas klien, konfigurasi internal, ataupun proses bisnis yang bersifat rahasia.
 
